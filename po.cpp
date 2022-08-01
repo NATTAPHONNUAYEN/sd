@@ -1,3 +1,10 @@
-int main{
+#include <iostream>
+
+int main()
+{
+        using namespace std;
+
     cout<< "Hello Kun-Natthaphon" <<endl;
+    cout<< "Everyone" <<endl;
+
 }
