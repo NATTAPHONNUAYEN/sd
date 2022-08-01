@@ -3,5 +3,13 @@
 int main()
 {
     using namespace std;
-    cout<<"nice >_<";
+    cout<<"nice >_<"<<endl;
+    cout<<    "-----"  <<endl;
+    cout<<    "  |  "  <<endl;
+    cout<<    "  |  "  <<endl;
+    cout<<    " / \\"  <<endl;
+
+
+
+
 }
